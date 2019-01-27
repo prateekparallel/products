@@ -1,0 +1,12 @@
+com\kela\common\response\Response.class
+com\kela\products\beans\sort\SortProductOnPriceReduction.class
+com\kela\common\response\error\ErrorMessage.class
+com\kela\common\config\ApplicationConfig.class
+com\kela\common\config\InitConfig.class
+com\kela\products\beans\Products.class
+com\kela\products\beans\ColorSwatches.class
+com\kela\controllers\ProductController.class
+com\kela\products\main\ProductsApplication.class
+com\kela\products\beans\Product.class
+com\kela\products\services\ProductServices.class
+com\kela\products\web\service\HttpsConnectionManager.class
